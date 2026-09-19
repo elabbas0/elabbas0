@@ -19,7 +19,7 @@
 ```json
 {
   "name": "Əlabbas Abdullayev",
-  "location": "Azerbaijan 🇦🇿",
+  "location": "🇦🇿",
   "currently_building": ["Java", "C", "C#", "C++", "JavaScript", "..."],
   "portfolio": "elabbas.tech",
   "contact": "github.com/elabbas0/elabbas0/issues"
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
@@ -52,14 +52,12 @@
 
 <img src="https://streak-stats.demolab.com/?user=elabbas0&theme=react&border=61dafb&hide_border=true" alt="elabbas0's streak stats" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elabbas0&theme=react-dark&bg_color=20232a&hide_border=true" alt="elabbas0's Activity Graph" width="90%"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### [🔎 Show More Repositories 🔍](https://github.com/elabbas0?tab=repositories)
+### [ More Repositories ](https://github.com/elabbas0?tab=repositories)
 
 </div>
